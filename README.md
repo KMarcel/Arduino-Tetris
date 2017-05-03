@@ -1,5 +1,5 @@
 # Arduino Matrix Tetris
-![20170503_231459](https://cloud.githubusercontent.com/assets/21289932/25682568/f8af5946-3058-11e7-88d1-70bc0f010159.png)
+![20170503_231459](https://cloud.githubusercontent.com/assets/21289932/25682726/7a7366de-3059-11e7-8c2b-c75723f320f0.png)
 Dear Ladies and Gentlemen
 I wanted to create a little Game Console. The first Game for this Game Console is Tetris
 
